@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
+  <diagram name="Page-1" id="gRrv08WA9W22McDbd_B8">
+    <mxGraphModel dx="1720" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="So6MgLdljxvtJaD1yKDA-4" edge="1" parent="1" source="So6MgLdljxvtJaD1yKDA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="So6MgLdljxvtJaD1yKDA-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="So6MgLdljxvtJaD1yKDA-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="START" vertex="1">
+          <mxGeometry height="20" width="120" x="180" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9tLlyMS3Q_m5hVGZYm1--21" edge="1" parent="1" source="So6MgLdljxvtJaD1yKDA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9tLlyMS3Q_m5hVGZYm1--20" value="no">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9tLlyMS3Q_m5hVGZYm1--37" edge="1" parent="1" source="So6MgLdljxvtJaD1yKDA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9tLlyMS3Q_m5hVGZYm1--36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9tLlyMS3Q_m5hVGZYm1--38" connectable="0" parent="9tLlyMS3Q_m5hVGZYm1--37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.1111" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="So6MgLdljxvtJaD1yKDA-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Invest in smart irrigation?" vertex="1">
+          <mxGeometry height="30" width="120" x="180" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="9tLlyMS3Q_m5hVGZYm1--24" edge="1" parent="1" source="9tLlyMS3Q_m5hVGZYm1--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9tLlyMS3Q_m5hVGZYm1--23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9tLlyMS3Q_m5hVGZYm1--20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="continue traditional farming" vertex="1">
+          <mxGeometry height="60" width="70" x="70" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9tLlyMS3Q_m5hVGZYm1--35" edge="1" parent="1" source="9tLlyMS3Q_m5hVGZYm1--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9tLlyMS3Q_m5hVGZYm1--28" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9tLlyMS3Q_m5hVGZYm1--23" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" value="weathear" vertex="1">
+          <mxGeometry height="60" width="60" x="-30" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9tLlyMS3Q_m5hVGZYm1--28" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=north;" value="" vertex="1">
+          <mxGeometry height="60" width="40" x="-100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9tLlyMS3Q_m5hVGZYm1--31" parent="1" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="30" width="50" x="-130" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="9tLlyMS3Q_m5hVGZYm1--32" parent="1" style="triangle;whiteSpace=wrap;html=1;direction=north;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="30" width="50" x="-130" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="9tLlyMS3Q_m5hVGZYm1--33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Favourable" vertex="1">
+          <mxGeometry height="30" width="40" x="-80" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9tLlyMS3Q_m5hVGZYm1--34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Unfavourable" vertex="1">
+          <mxGeometry height="20" width="60" x="-70" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9tLlyMS3Q_m5hVGZYm1--36" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="How to finance?" vertex="1">
+          <mxGeometry height="30" width="120" x="180" y="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
